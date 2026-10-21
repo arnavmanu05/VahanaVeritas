@@ -1,0 +1,601 @@
+log_text,tire_tread_mm,brake_pad_wear_pct,fluid_condition,service_adherence_ratio,severity_tier,condition_score
+"Scheduled 10000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",6.7,22,Good,0.99,Routine,0.901
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.2,70,Contaminated,0.57,Major Overhaul,0.569
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.1,99,Contaminated,0.11,Severe Neglect,0.053
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,7.0,16,Good,0.98,Routine,0.949
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,5.3,40,Fair,0.89,Minor Repair,0.768
+"Check engine light diagnosed (Code: P0128). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.4,50,Fair,0.93,Minor Repair,0.739
+Regular periodic service completed. Engine oil (0W-20 Full Synthetic) and filter changed. Brake pads inspected (82% life remaining). All fluids topped off. No error codes found.,7.2,12,Good,0.96,Routine,0.907
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,2.1,88,Contaminated,0.36,Severe Neglect,0.339
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.4,18,Good,0.99,Routine,0.928
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",2.5,69,Contaminated,0.76,Major Overhaul,0.406
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.7,18,Good,0.97,Routine,0.919
+"Scheduled 20000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",6.1,24,Good,0.98,Routine,0.903
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.2,22,Good,0.97,Routine,0.925
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.2,95,Contaminated,0.24,Severe Neglect,0.288
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.6,66,Contaminated,0.72,Major Overhaul,0.445
+"Check engine light diagnosed (Code: P0171). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.6,46,Fair,0.82,Minor Repair,0.712
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.2,14,Good,0.99,Routine,0.976
+"Check engine light diagnosed (Code: P0135). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",5.0,42,Fair,0.83,Minor Repair,0.751
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.0,40,Fair,0.88,Minor Repair,0.867
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.1,14,Good,0.95,Routine,0.962
+Regular periodic service completed. Engine oil (0W-20 Full Synthetic) and filter changed. Brake pads inspected (77% life remaining). All fluids topped off. No error codes found.,6.1,17,Good,0.99,Routine,0.96
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",2.2,86,Contaminated,0.14,Severe Neglect,0.19
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.7,89,Contaminated,0.13,Severe Neglect,0.312
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.1,98,Contaminated,0.33,Severe Neglect,0.059
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.9,83,Contaminated,0.59,Major Overhaul,0.515
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.9,92,Contaminated,0.35,Severe Neglect,0.285
+Regular periodic service completed. Engine oil (5W-30 Synthetic Blend) and filter changed. Brake pads inspected (92% life remaining). All fluids topped off. No error codes found.,6.7,14,Good,0.99,Routine,0.965
+Regular periodic service completed. Engine oil (5W-30 Synthetic Blend) and filter changed. Brake pads inspected (82% life remaining). All fluids topped off. No error codes found.,7.8,17,Good,0.97,Routine,0.901
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.2,89,Contaminated,0.46,Severe Neglect,0.148
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.8,81,Contaminated,0.68,Major Overhaul,0.637
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,2.3,87,Contaminated,0.38,Severe Neglect,0.239
+"Check engine light diagnosed (Code: P0128). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",5.7,33,Fair,0.86,Minor Repair,0.818
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.9,22,Good,1.0,Routine,0.996
+"Check engine light diagnosed (Code: P0420). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",5.6,58,Fair,0.82,Minor Repair,0.775
+"Check engine light diagnosed (Code: P0300). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.3,44,Fair,0.93,Minor Repair,0.794
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.8,91,Contaminated,0.5,Severe Neglect,0.082
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,7.7,12,Good,0.97,Routine,0.975
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.7,90,Contaminated,0.45,Severe Neglect,0.215
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",2.8,66,Contaminated,0.78,Major Overhaul,0.498
+"Check engine light diagnosed (Code: P0128). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",5.7,30,Fair,0.85,Minor Repair,0.766
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.4,77,Contaminated,0.67,Major Overhaul,0.467
+"Scheduled 10000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.3,12,Good,0.99,Routine,0.947
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.3,92,Contaminated,0.51,Severe Neglect,0.024
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.2,97,Contaminated,0.13,Severe Neglect,0.304
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.0,19,Good,0.99,Routine,0.971
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",4.2,39,Fair,0.89,Minor Repair,0.799
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,2.3,96,Contaminated,0.24,Severe Neglect,0.198
+"Scheduled 50000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",6.1,20,Good,1.0,Routine,0.984
+Regular periodic service completed. Engine oil (0W-20 Full Synthetic) and filter changed. Brake pads inspected (92% life remaining). All fluids topped off. No error codes found.,6.5,18,Good,0.95,Routine,0.99
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.8,88,Contaminated,0.42,Severe Neglect,0.343
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.7,39,Fair,0.85,Minor Repair,0.855
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",4.4,37,Fair,0.93,Minor Repair,0.773
+"Scheduled 10000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.3,19,Good,0.99,Routine,0.998
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",2.2,86,Contaminated,0.19,Severe Neglect,0.363
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",2.3,91,Contaminated,0.45,Severe Neglect,0.123
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.0,65,Contaminated,0.62,Major Overhaul,0.486
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.4,40,Fair,0.81,Minor Repair,0.748
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.7,32,Fair,0.88,Minor Repair,0.715
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,7.9,21,Good,1.0,Routine,0.957
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.5,43,Fair,0.81,Minor Repair,0.724
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.8,21,Good,0.98,Routine,0.979
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.1,45,Fair,0.92,Minor Repair,0.854
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.1,78,Contaminated,0.61,Major Overhaul,0.638
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.3,88,Contaminated,0.34,Severe Neglect,0.343
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.1,91,Contaminated,0.43,Severe Neglect,0.05
+"Scheduled 10000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.1,19,Good,0.98,Routine,0.965
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",2.2,99,Contaminated,0.16,Severe Neglect,0.336
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.7,90,Contaminated,0.27,Severe Neglect,0.154
+Regular periodic service completed. Engine oil (0W-20 Full Synthetic) and filter changed. Brake pads inspected (94% life remaining). All fluids topped off. No error codes found.,6.7,21,Good,0.95,Routine,0.993
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.7,79,Contaminated,0.69,Major Overhaul,0.574
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.4,65,Contaminated,0.65,Major Overhaul,0.56
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.9,13,Good,0.96,Routine,0.961
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",2.9,69,Contaminated,0.72,Major Overhaul,0.649
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.7,78,Contaminated,0.74,Major Overhaul,0.59
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.0,79,Contaminated,0.56,Major Overhaul,0.423
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.9,94,Contaminated,0.33,Severe Neglect,0.126
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",2.5,81,Contaminated,0.77,Major Overhaul,0.434
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",4.7,51,Fair,0.93,Minor Repair,0.858
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.6,91,Contaminated,0.18,Severe Neglect,0.271
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",2.7,85,Contaminated,0.58,Major Overhaul,0.585
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.1,31,Fair,0.81,Minor Repair,0.847
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",2.7,73,Contaminated,0.67,Major Overhaul,0.579
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.1,95,Contaminated,0.14,Severe Neglect,0.279
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.7,67,Contaminated,0.78,Major Overhaul,0.536
+"Scheduled 50000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.7,10,Good,0.98,Routine,0.957
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.4,13,Good,0.99,Routine,0.954
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.7,37,Fair,0.84,Minor Repair,0.865
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.8,57,Fair,0.82,Minor Repair,0.754
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.6,70,Contaminated,0.6,Major Overhaul,0.465
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.4,59,Fair,0.93,Minor Repair,0.797
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.9,51,Fair,0.85,Minor Repair,0.854
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,2.4,98,Contaminated,0.51,Severe Neglect,0.211
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.7,19,Good,0.96,Routine,0.992
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",2.8,69,Contaminated,0.56,Major Overhaul,0.453
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.4,48,Fair,0.9,Minor Repair,0.822
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.0,45,Fair,0.89,Minor Repair,0.734
+"Check engine light diagnosed (Code: P0300). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",5.8,37,Fair,0.88,Minor Repair,0.809
+"Scheduled 30000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.9,24,Good,1.0,Routine,0.981
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.7,76,Contaminated,0.66,Major Overhaul,0.681
+"Scheduled 50000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.7,10,Good,0.96,Routine,0.939
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.6,15,Good,0.99,Routine,0.987
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.2,44,Fair,0.85,Minor Repair,0.788
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.5,87,Contaminated,0.39,Severe Neglect,0.388
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.4,73,Contaminated,0.72,Major Overhaul,0.646
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.0,20,Good,0.98,Routine,0.918
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",2.6,79,Contaminated,0.68,Major Overhaul,0.606
+"Scheduled 50000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.6,18,Good,0.99,Routine,0.909
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,5.8,37,Fair,0.82,Minor Repair,0.779
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.8,54,Fair,0.9,Minor Repair,0.878
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.6,72,Contaminated,0.75,Major Overhaul,0.621
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.3,52,Fair,0.83,Minor Repair,0.708
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.2,86,Contaminated,0.33,Severe Neglect,0.131
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.1,98,Contaminated,0.32,Severe Neglect,0.389
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.0,95,Contaminated,0.21,Severe Neglect,0.381
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.3,67,Contaminated,0.69,Major Overhaul,0.568
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.9,77,Contaminated,0.73,Major Overhaul,0.438
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.5,76,Contaminated,0.62,Major Overhaul,0.668
+"Scheduled 10000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.6,17,Good,1.0,Routine,0.999
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.8,99,Contaminated,0.1,Severe Neglect,0.127
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.5,68,Contaminated,0.57,Major Overhaul,0.418
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.4,11,Good,0.95,Routine,0.982
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,7.0,16,Good,0.98,Routine,0.905
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.3,71,Contaminated,0.57,Major Overhaul,0.518
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.6,87,Contaminated,0.36,Severe Neglect,0.066
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",4.7,36,Fair,0.88,Minor Repair,0.775
+"Scheduled 30000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.6,18,Good,0.97,Routine,0.993
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.1,91,Contaminated,0.41,Severe Neglect,0.384
+"Check engine light diagnosed (Code: P0171). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",5.3,40,Fair,0.83,Minor Repair,0.756
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.2,91,Contaminated,0.34,Severe Neglect,0.177
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",2.6,78,Contaminated,0.56,Major Overhaul,0.475
+"Scheduled 10000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.7,20,Good,0.97,Routine,0.917
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,2.0,86,Contaminated,0.29,Severe Neglect,0.099
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.9,35,Fair,0.94,Minor Repair,0.806
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.2,50,Fair,0.82,Minor Repair,0.823
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,2.3,97,Contaminated,0.29,Severe Neglect,0.108
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.2,56,Fair,0.82,Minor Repair,0.726
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.5,11,Good,1.0,Routine,0.939
+"Scheduled 20000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.6,16,Good,0.98,Routine,0.97
+"Check engine light diagnosed (Code: P0135). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.2,36,Fair,0.83,Minor Repair,0.837
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.2,13,Good,0.95,Routine,0.91
+"Scheduled 10000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.3,17,Good,0.97,Routine,0.952
+"Check engine light diagnosed (Code: P0420). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",5.2,38,Fair,0.81,Minor Repair,0.866
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.0,45,Fair,0.94,Minor Repair,0.714
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.8,19,Good,0.99,Routine,0.97
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.5,90,Contaminated,0.2,Severe Neglect,0.029
+"Scheduled 20000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.7,17,Good,0.98,Routine,0.916
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.6,65,Contaminated,0.71,Major Overhaul,0.647
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",2.8,83,Contaminated,0.57,Major Overhaul,0.597
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.2,13,Good,0.95,Routine,0.964
+Regular periodic service completed. Engine oil (0W-20 Full Synthetic) and filter changed. Brake pads inspected (83% life remaining). All fluids topped off. No error codes found.,6.7,17,Good,1.0,Routine,0.973
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,2.2,99,Contaminated,0.12,Severe Neglect,0.352
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.1,96,Contaminated,0.42,Severe Neglect,0.226
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.4,83,Contaminated,0.76,Major Overhaul,0.685
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.8,77,Contaminated,0.58,Major Overhaul,0.676
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.3,86,Contaminated,0.26,Severe Neglect,0.027
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,5.3,60,Fair,0.87,Minor Repair,0.768
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.3,22,Good,0.99,Routine,0.907
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",2.8,67,Contaminated,0.59,Major Overhaul,0.653
+"Scheduled 10000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",6.7,10,Good,0.98,Routine,0.95
+"Scheduled 30000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.4,24,Good,0.97,Routine,0.929
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",2.7,79,Contaminated,0.6,Major Overhaul,0.454
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.0,52,Fair,0.82,Minor Repair,0.785
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.2,18,Good,1.0,Routine,0.909
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",2.7,77,Contaminated,0.65,Major Overhaul,0.674
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",2.6,79,Contaminated,0.69,Major Overhaul,0.471
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.2,25,Good,0.96,Routine,0.908
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.3,51,Fair,0.92,Minor Repair,0.88
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.6,51,Fair,0.86,Minor Repair,0.802
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",2.3,91,Contaminated,0.18,Severe Neglect,0.269
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.6,69,Contaminated,0.57,Major Overhaul,0.521
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.2,30,Fair,0.93,Minor Repair,0.819
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.9,44,Fair,0.87,Minor Repair,0.784
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",2.4,87,Contaminated,0.16,Severe Neglect,0.271
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.6,75,Contaminated,0.56,Major Overhaul,0.406
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.0,53,Fair,0.84,Minor Repair,0.855
+"Scheduled 10000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.3,12,Good,0.98,Routine,0.909
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.6,86,Contaminated,0.46,Severe Neglect,0.047
+Regular periodic service completed. Engine oil (0W-20 Full Synthetic) and filter changed. Brake pads inspected (82% life remaining). All fluids topped off. No error codes found.,6.7,23,Good,1.0,Routine,0.996
+"Scheduled 20000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.6,25,Good,0.99,Routine,0.934
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.0,46,Fair,0.89,Minor Repair,0.703
+"Scheduled 30000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.9,23,Good,0.99,Routine,0.955
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,5.1,41,Fair,0.86,Minor Repair,0.71
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.1,95,Contaminated,0.13,Severe Neglect,0.005
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",2.0,86,Contaminated,0.19,Severe Neglect,0.263
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.0,75,Contaminated,0.75,Major Overhaul,0.423
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.7,74,Contaminated,0.72,Major Overhaul,0.643
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.7,66,Contaminated,0.63,Major Overhaul,0.597
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,2.1,96,Contaminated,0.16,Severe Neglect,0.378
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.4,67,Contaminated,0.77,Major Overhaul,0.43
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.7,38,Fair,0.93,Minor Repair,0.807
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",2.4,91,Contaminated,0.14,Severe Neglect,0.262
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.8,98,Contaminated,0.46,Severe Neglect,0.345
+Regular periodic service completed. Engine oil (5W-40 Synthetic) and filter changed. Brake pads inspected (79% life remaining). All fluids topped off. No error codes found.,7.3,21,Good,0.95,Routine,0.916
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.5,31,Fair,0.82,Minor Repair,0.816
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.9,78,Contaminated,0.65,Major Overhaul,0.531
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.9,33,Fair,0.86,Minor Repair,0.874
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.1,94,Contaminated,0.15,Severe Neglect,0.176
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.7,72,Contaminated,0.68,Major Overhaul,0.672
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.4,87,Contaminated,0.45,Severe Neglect,0.21
+Regular periodic service completed. Engine oil (5W-40 Synthetic) and filter changed. Brake pads inspected (88% life remaining). All fluids topped off. No error codes found.,7.5,22,Good,0.97,Routine,0.908
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.2,13,Good,0.98,Routine,0.907
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.0,74,Contaminated,0.67,Major Overhaul,0.425
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,2.2,90,Contaminated,0.29,Severe Neglect,0.097
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.8,33,Fair,0.82,Minor Repair,0.705
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.5,32,Fair,0.82,Minor Repair,0.827
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.8,42,Fair,0.8,Minor Repair,0.73
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.6,42,Fair,0.9,Minor Repair,0.796
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.7,58,Fair,0.84,Minor Repair,0.822
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.0,41,Fair,0.93,Minor Repair,0.819
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.2,81,Contaminated,0.68,Major Overhaul,0.609
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.5,97,Contaminated,0.14,Severe Neglect,0.365
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.8,96,Contaminated,0.23,Severe Neglect,0.155
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.1,99,Contaminated,0.23,Severe Neglect,0.103
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.3,12,Good,0.97,Routine,0.94
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.3,59,Fair,0.81,Minor Repair,0.852
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,7.0,17,Good,0.95,Routine,0.955
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.5,67,Contaminated,0.77,Major Overhaul,0.452
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.3,11,Good,0.96,Routine,0.937
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.4,89,Contaminated,0.46,Severe Neglect,0.165
+"Scheduled 30000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",6.4,23,Good,0.95,Routine,0.933
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.7,53,Fair,0.91,Minor Repair,0.888
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",2.0,90,Contaminated,0.31,Severe Neglect,0.341
+"Scheduled 20000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",6.1,18,Good,0.98,Routine,0.968
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.3,82,Contaminated,0.65,Major Overhaul,0.659
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",2.8,69,Contaminated,0.67,Major Overhaul,0.464
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,2.2,87,Contaminated,0.35,Severe Neglect,0.171
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.5,84,Contaminated,0.62,Major Overhaul,0.564
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",2.7,67,Contaminated,0.75,Major Overhaul,0.685
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.0,14,Good,0.95,Routine,0.928
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",2.8,76,Contaminated,0.58,Major Overhaul,0.422
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.5,18,Good,0.99,Routine,0.907
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",2.8,79,Contaminated,0.74,Major Overhaul,0.591
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",4.7,53,Fair,0.94,Minor Repair,0.815
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",2.0,89,Contaminated,0.32,Severe Neglect,0.241
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.7,86,Contaminated,0.13,Severe Neglect,0.219
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.6,17,Good,0.99,Routine,0.901
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.8,71,Contaminated,0.7,Major Overhaul,0.631
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.7,53,Fair,0.83,Minor Repair,0.873
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.1,75,Contaminated,0.7,Major Overhaul,0.515
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.9,59,Fair,0.82,Minor Repair,0.734
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.3,92,Contaminated,0.37,Severe Neglect,0.254
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.3,77,Contaminated,0.61,Major Overhaul,0.655
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",2.5,81,Contaminated,0.71,Major Overhaul,0.507
+"Check engine light diagnosed (Code: P0300). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",5.4,51,Fair,0.88,Minor Repair,0.883
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.6,25,Good,0.96,Routine,0.912
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.3,81,Contaminated,0.7,Major Overhaul,0.475
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.6,100,Contaminated,0.47,Severe Neglect,0.351
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.4,74,Contaminated,0.6,Major Overhaul,0.597
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,5.8,37,Fair,0.92,Minor Repair,0.859
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.1,23,Good,0.99,Routine,0.949
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.2,20,Good,0.97,Routine,0.947
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,8.0,13,Good,0.99,Routine,0.92
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.3,38,Fair,0.88,Minor Repair,0.772
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,2.2,98,Contaminated,0.48,Severe Neglect,0.314
+Regular periodic service completed. Engine oil (5W-40 Synthetic) and filter changed. Brake pads inspected (88% life remaining). All fluids topped off. No error codes found.,7.8,11,Good,0.99,Routine,0.964
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.0,24,Good,0.98,Routine,0.923
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.0,67,Contaminated,0.62,Major Overhaul,0.503
+"Check engine light diagnosed (Code: P0420). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.5,45,Fair,0.82,Minor Repair,0.735
+"Scheduled 20000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.6,25,Good,1.0,Routine,0.989
+"Check engine light diagnosed (Code: P0135). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",5.7,30,Fair,0.8,Minor Repair,0.716
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.1,50,Fair,0.91,Minor Repair,0.867
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.1,72,Contaminated,0.62,Major Overhaul,0.675
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.3,93,Contaminated,0.16,Severe Neglect,0.047
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.0,54,Fair,0.91,Minor Repair,0.775
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.1,77,Contaminated,0.64,Major Overhaul,0.55
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.5,96,Contaminated,0.36,Severe Neglect,0.194
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.7,38,Fair,0.92,Minor Repair,0.799
+Regular periodic service completed. Engine oil (5W-30 Synthetic Blend) and filter changed. Brake pads inspected (88% life remaining). All fluids topped off. No error codes found.,6.8,22,Good,0.95,Routine,0.958
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.8,51,Fair,0.88,Minor Repair,0.743
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.3,75,Contaminated,0.64,Major Overhaul,0.427
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.5,85,Contaminated,0.67,Major Overhaul,0.6
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.2,79,Contaminated,0.59,Major Overhaul,0.479
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.4,16,Good,0.97,Routine,0.952
+Regular periodic service completed. Engine oil (5W-30 Synthetic Blend) and filter changed. Brake pads inspected (92% life remaining). All fluids topped off. No error codes found.,6.6,11,Good,0.98,Routine,0.97
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",2.6,74,Contaminated,0.76,Major Overhaul,0.682
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,2.1,97,Contaminated,0.37,Severe Neglect,0.119
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.9,89,Contaminated,0.31,Severe Neglect,0.329
+Regular periodic service completed. Engine oil (5W-30 Synthetic Blend) and filter changed. Brake pads inspected (87% life remaining). All fluids topped off. No error codes found.,7.1,12,Good,0.96,Routine,0.997
+"Scheduled 50000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",6.6,18,Good,0.95,Routine,0.961
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.3,94,Contaminated,0.26,Severe Neglect,0.162
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.9,93,Contaminated,0.15,Severe Neglect,0.257
+Regular periodic service completed. Engine oil (5W-40 Synthetic) and filter changed. Brake pads inspected (81% life remaining). All fluids topped off. No error codes found.,7.4,17,Good,0.95,Routine,0.997
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.3,91,Contaminated,0.39,Severe Neglect,0.154
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.1,66,Contaminated,0.7,Major Overhaul,0.553
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.4,85,Contaminated,0.59,Major Overhaul,0.687
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.5,84,Contaminated,0.56,Major Overhaul,0.672
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.6,70,Contaminated,0.63,Major Overhaul,0.475
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.9,42,Fair,0.82,Minor Repair,0.776
+"Scheduled 30000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",6.7,16,Good,0.96,Routine,0.986
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.6,67,Contaminated,0.56,Major Overhaul,0.539
+"Check engine light diagnosed (Code: P0135). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",5.8,58,Fair,0.82,Minor Repair,0.811
+"Scheduled 10000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.8,11,Good,0.96,Routine,0.914
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.5,33,Fair,0.91,Minor Repair,0.736
+Regular periodic service completed. Engine oil (5W-40 Synthetic) and filter changed. Brake pads inspected (82% life remaining). All fluids topped off. No error codes found.,6.3,25,Good,1.0,Routine,0.981
+"Check engine light diagnosed (Code: P0420). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",5.8,43,Fair,0.81,Minor Repair,0.869
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,5.1,57,Fair,0.87,Minor Repair,0.778
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.4,91,Contaminated,0.14,Severe Neglect,0.27
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.9,48,Fair,0.86,Minor Repair,0.752
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.8,88,Contaminated,0.21,Severe Neglect,0.376
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",2.8,73,Contaminated,0.56,Major Overhaul,0.405
+"Check engine light diagnosed (Code: P0171). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.9,39,Fair,0.85,Minor Repair,0.82
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,2.1,99,Contaminated,0.46,Severe Neglect,0.28
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.2,95,Contaminated,0.49,Severe Neglect,0.175
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.4,91,Contaminated,0.28,Severe Neglect,0.048
+Regular periodic service completed. Engine oil (5W-30 Synthetic Blend) and filter changed. Brake pads inspected (79% life remaining). All fluids topped off. No error codes found.,6.2,15,Good,0.96,Routine,0.99
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",2.6,68,Contaminated,0.59,Major Overhaul,0.614
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.3,33,Fair,0.82,Minor Repair,0.873
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.9,74,Contaminated,0.76,Major Overhaul,0.669
+"Check engine light diagnosed (Code: P0300). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.1,55,Fair,0.84,Minor Repair,0.881
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",4.5,30,Fair,0.86,Minor Repair,0.886
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.0,60,Fair,0.87,Minor Repair,0.711
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.5,99,Contaminated,0.27,Severe Neglect,0.156
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",2.6,84,Contaminated,0.63,Major Overhaul,0.556
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",2.3,100,Contaminated,0.4,Severe Neglect,0.264
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.1,68,Contaminated,0.59,Major Overhaul,0.557
+"Scheduled 50000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",6.5,14,Good,0.97,Routine,0.908
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.4,81,Contaminated,0.79,Major Overhaul,0.583
+"Scheduled 50000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",6.2,17,Good,0.97,Routine,0.927
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.0,85,Contaminated,0.67,Major Overhaul,0.574
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.9,87,Contaminated,0.33,Severe Neglect,0.166
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,7.2,15,Good,1.0,Routine,0.958
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",2.9,83,Contaminated,0.72,Major Overhaul,0.42
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",2.9,75,Contaminated,0.79,Major Overhaul,0.519
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.6,93,Contaminated,0.48,Severe Neglect,0.069
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.4,48,Fair,0.85,Minor Repair,0.792
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.7,78,Contaminated,0.73,Major Overhaul,0.634
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.6,68,Contaminated,0.65,Major Overhaul,0.539
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.9,82,Contaminated,0.78,Major Overhaul,0.538
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",2.7,72,Contaminated,0.74,Major Overhaul,0.601
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.9,12,Good,0.99,Routine,0.92
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.2,68,Contaminated,0.57,Major Overhaul,0.464
+Regular periodic service completed. Engine oil (0W-20 Full Synthetic) and filter changed. Brake pads inspected (77% life remaining). All fluids topped off. No error codes found.,6.5,20,Good,0.95,Routine,0.929
+Regular periodic service completed. Engine oil (5W-40 Synthetic) and filter changed. Brake pads inspected (81% life remaining). All fluids topped off. No error codes found.,6.7,13,Good,0.98,Routine,0.975
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.5,54,Fair,0.82,Minor Repair,0.759
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.0,65,Contaminated,0.69,Major Overhaul,0.478
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.3,97,Contaminated,0.34,Severe Neglect,0.038
+Regular periodic service completed. Engine oil (5W-40 Synthetic) and filter changed. Brake pads inspected (81% life remaining). All fluids topped off. No error codes found.,6.8,14,Good,1.0,Routine,0.914
+Regular periodic service completed. Engine oil (0W-20 Full Synthetic) and filter changed. Brake pads inspected (95% life remaining). All fluids topped off. No error codes found.,6.2,14,Good,0.95,Routine,0.904
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",2.8,67,Contaminated,0.78,Major Overhaul,0.588
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.6,78,Contaminated,0.65,Major Overhaul,0.522
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.1,36,Fair,0.86,Minor Repair,0.788
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.1,87,Contaminated,0.11,Severe Neglect,0.25
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,5.6,36,Fair,0.92,Minor Repair,0.775
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.5,39,Fair,0.88,Minor Repair,0.781
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.3,53,Fair,0.93,Minor Repair,0.834
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.3,93,Contaminated,0.19,Severe Neglect,0.238
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",2.0,95,Contaminated,0.54,Severe Neglect,0.05
+"Scheduled 50000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.3,17,Good,0.99,Routine,0.98
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.5,74,Contaminated,0.74,Major Overhaul,0.458
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.2,73,Contaminated,0.76,Major Overhaul,0.632
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,5.7,45,Fair,0.87,Minor Repair,0.827
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.5,84,Contaminated,0.61,Major Overhaul,0.432
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,7.4,22,Good,0.95,Routine,0.908
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.3,87,Contaminated,0.15,Severe Neglect,0.105
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.4,97,Contaminated,0.13,Severe Neglect,0.033
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,8.0,14,Good,0.97,Routine,0.937
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",2.9,79,Contaminated,0.74,Major Overhaul,0.49
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.7,83,Contaminated,0.7,Major Overhaul,0.468
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",2.9,77,Contaminated,0.69,Major Overhaul,0.415
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.7,98,Contaminated,0.41,Severe Neglect,0.042
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.1,12,Good,0.96,Routine,0.902
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.8,87,Contaminated,0.33,Severe Neglect,0.237
+Regular periodic service completed. Engine oil (5W-30 Synthetic Blend) and filter changed. Brake pads inspected (82% life remaining). All fluids topped off. No error codes found.,6.6,24,Good,0.98,Routine,0.903
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.2,14,Good,0.96,Routine,0.976
+"Check engine light diagnosed (Code: P0128). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",5.8,59,Fair,0.82,Minor Repair,0.839
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",2.6,79,Contaminated,0.61,Major Overhaul,0.686
+Regular periodic service completed. Engine oil (5W-40 Synthetic) and filter changed. Brake pads inspected (82% life remaining). All fluids topped off. No error codes found.,6.1,24,Good,0.99,Routine,0.936
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.5,73,Contaminated,0.6,Major Overhaul,0.409
+"Check engine light diagnosed (Code: P0420). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.7,60,Fair,0.88,Minor Repair,0.82
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.4,32,Fair,0.83,Minor Repair,0.828
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.7,88,Contaminated,0.32,Severe Neglect,0.26
+Regular periodic service completed. Engine oil (5W-40 Synthetic) and filter changed. Brake pads inspected (84% life remaining). All fluids topped off. No error codes found.,7.9,11,Good,1.0,Routine,0.92
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.5,31,Fair,0.87,Minor Repair,0.862
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",4.4,34,Fair,0.85,Minor Repair,0.796
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.2,67,Contaminated,0.71,Major Overhaul,0.672
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",4.8,44,Fair,0.85,Minor Repair,0.788
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.3,99,Contaminated,0.4,Severe Neglect,0.071
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.3,88,Contaminated,0.48,Severe Neglect,0.192
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.2,97,Contaminated,0.11,Severe Neglect,0.12
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.6,90,Contaminated,0.27,Severe Neglect,0.337
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.6,99,Contaminated,0.29,Severe Neglect,0.28
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",2.7,70,Contaminated,0.75,Major Overhaul,0.641
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.6,14,Good,0.99,Routine,0.902
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.0,87,Contaminated,0.28,Severe Neglect,0.188
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.5,49,Fair,0.82,Minor Repair,0.87
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.7,83,Contaminated,0.75,Major Overhaul,0.493
+Regular periodic service completed. Engine oil (5W-40 Synthetic) and filter changed. Brake pads inspected (82% life remaining). All fluids topped off. No error codes found.,7.5,13,Good,0.97,Routine,0.963
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",4.7,46,Fair,0.89,Minor Repair,0.808
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.4,20,Good,0.99,Routine,0.981
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.6,91,Contaminated,0.43,Severe Neglect,0.136
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.3,65,Contaminated,0.78,Major Overhaul,0.499
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.1,84,Contaminated,0.76,Major Overhaul,0.611
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.3,97,Contaminated,0.28,Severe Neglect,0.059
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.8,83,Contaminated,0.72,Major Overhaul,0.42
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,2.3,99,Contaminated,0.34,Severe Neglect,0.377
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.5,76,Contaminated,0.66,Major Overhaul,0.479
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.7,68,Contaminated,0.56,Major Overhaul,0.639
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,2.2,91,Contaminated,0.42,Severe Neglect,0.3
+"Check engine light diagnosed (Code: P0135). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.0,30,Fair,0.81,Minor Repair,0.852
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.7,100,Contaminated,0.31,Severe Neglect,0.01
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,2.0,98,Contaminated,0.47,Severe Neglect,0.368
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.4,69,Contaminated,0.58,Major Overhaul,0.409
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.7,22,Good,0.99,Routine,0.947
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",4.5,43,Fair,0.86,Minor Repair,0.725
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.1,83,Contaminated,0.55,Major Overhaul,0.421
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.2,98,Contaminated,0.12,Severe Neglect,0.287
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.0,67,Contaminated,0.79,Major Overhaul,0.412
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",2.7,80,Contaminated,0.76,Major Overhaul,0.677
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.4,84,Contaminated,0.75,Major Overhaul,0.46
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.7,48,Fair,0.82,Minor Repair,0.794
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.0,96,Contaminated,0.21,Severe Neglect,0.297
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.9,43,Fair,0.87,Minor Repair,0.71
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.6,65,Contaminated,0.58,Major Overhaul,0.652
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,2.2,99,Contaminated,0.44,Severe Neglect,0.276
+"Check engine light diagnosed (Code: P0171). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.5,59,Fair,0.83,Minor Repair,0.788
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.4,66,Contaminated,0.59,Major Overhaul,0.665
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,7.8,25,Good,0.95,Routine,0.932
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.8,67,Contaminated,0.61,Major Overhaul,0.462
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,5.2,60,Fair,0.83,Minor Repair,0.766
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.6,98,Contaminated,0.15,Severe Neglect,0.25
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,5.5,55,Fair,0.82,Minor Repair,0.744
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.5,39,Fair,0.88,Minor Repair,0.729
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.2,21,Good,0.98,Routine,0.905
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.8,19,Good,0.98,Routine,0.946
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,2.4,98,Contaminated,0.12,Severe Neglect,0.381
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.0,76,Contaminated,0.61,Major Overhaul,0.61
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.5,69,Contaminated,0.71,Major Overhaul,0.579
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",4.2,57,Fair,0.87,Minor Repair,0.778
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.6,90,Contaminated,0.24,Severe Neglect,0.197
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.3,90,Contaminated,0.2,Severe Neglect,0.379
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.6,76,Contaminated,0.63,Major Overhaul,0.582
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.4,20,Good,0.98,Routine,0.988
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.6,87,Contaminated,0.45,Severe Neglect,0.348
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.4,49,Fair,0.81,Minor Repair,0.79
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.6,98,Contaminated,0.36,Severe Neglect,0.201
+"Scheduled 50000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.0,14,Good,0.97,Routine,0.922
+Regular periodic service completed. Engine oil (5W-30 Synthetic Blend) and filter changed. Brake pads inspected (84% life remaining). All fluids topped off. No error codes found.,7.4,23,Good,0.98,Routine,0.928
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.6,90,Contaminated,0.16,Severe Neglect,0.143
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",2.8,76,Contaminated,0.79,Major Overhaul,0.683
+"Scheduled 50000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.5,17,Good,0.96,Routine,0.99
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.5,94,Contaminated,0.27,Severe Neglect,0.271
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.2,17,Good,0.97,Routine,0.994
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.6,52,Fair,0.93,Minor Repair,0.838
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.7,11,Good,0.99,Routine,0.99
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.1,43,Fair,0.81,Minor Repair,0.842
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,7.1,19,Good,1.0,Routine,0.97
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.3,58,Fair,0.91,Minor Repair,0.738
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.4,56,Fair,0.89,Minor Repair,0.834
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.2,79,Contaminated,0.69,Major Overhaul,0.497
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.1,37,Fair,0.94,Minor Repair,0.799
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.6,16,Good,0.95,Routine,0.968
+"Scheduled 10000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",6.5,12,Good,0.97,Routine,0.976
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.6,19,Good,0.97,Routine,0.973
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.2,46,Fair,0.86,Minor Repair,0.877
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.9,14,Good,0.99,Routine,0.935
+"Check engine light diagnosed (Code: P0171). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.5,35,Fair,0.9,Minor Repair,0.844
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.6,94,Contaminated,0.2,Severe Neglect,0.029
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.5,97,Contaminated,0.3,Severe Neglect,0.093
+"Check engine light diagnosed (Code: P0128). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.5,57,Fair,0.81,Minor Repair,0.729
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.9,91,Contaminated,0.45,Severe Neglect,0.362
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.1,10,Good,0.97,Routine,0.954
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,7.0,15,Good,1.0,Routine,0.924
+"Check engine light diagnosed (Code: P0171). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",5.8,44,Fair,0.83,Minor Repair,0.713
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,2.3,92,Contaminated,0.25,Severe Neglect,0.04
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.6,76,Contaminated,0.79,Major Overhaul,0.502
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.1,97,Contaminated,0.38,Severe Neglect,0.371
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.5,32,Fair,0.93,Minor Repair,0.861
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.2,99,Contaminated,0.27,Severe Neglect,0.378
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.8,89,Contaminated,0.34,Severe Neglect,0.09
+Regular periodic service completed. Engine oil (5W-40 Synthetic) and filter changed. Brake pads inspected (95% life remaining). All fluids topped off. No error codes found.,6.2,11,Good,0.96,Routine,0.943
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,2.3,87,Contaminated,0.32,Severe Neglect,0.387
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.9,94,Contaminated,0.14,Severe Neglect,0.243
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.5,39,Fair,0.9,Minor Repair,0.735
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.6,66,Contaminated,0.58,Major Overhaul,0.621
+"Check engine light diagnosed (Code: P0128). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.2,44,Fair,0.94,Minor Repair,0.795
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.9,75,Contaminated,0.65,Major Overhaul,0.511
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.3,85,Contaminated,0.63,Major Overhaul,0.58
+"Check engine light diagnosed (Code: P0135). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.5,55,Fair,0.9,Minor Repair,0.706
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,5.0,46,Fair,0.88,Minor Repair,0.842
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.7,15,Good,0.96,Routine,0.918
+"Check engine light diagnosed (Code: P0135). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.6,38,Fair,0.91,Minor Repair,0.721
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,2.1,98,Contaminated,0.18,Severe Neglect,0.196
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,2.3,90,Contaminated,0.18,Severe Neglect,0.126
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.1,66,Contaminated,0.58,Major Overhaul,0.565
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.1,25,Good,0.98,Routine,0.954
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.8,57,Fair,0.92,Minor Repair,0.855
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.5,85,Contaminated,0.65,Major Overhaul,0.5
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,2.2,88,Contaminated,0.33,Severe Neglect,0.243
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.6,100,Contaminated,0.13,Severe Neglect,0.388
+"Check engine light diagnosed (Code: P0128). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.7,31,Fair,0.8,Minor Repair,0.761
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.5,65,Contaminated,0.6,Major Overhaul,0.675
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.6,32,Fair,0.81,Minor Repair,0.705
+"Scheduled 30000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",6.3,24,Good,0.98,Routine,0.977
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.4,60,Fair,0.89,Minor Repair,0.705
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.7,51,Fair,0.88,Minor Repair,0.829
+"Scheduled 30000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.8,10,Good,0.96,Routine,0.966
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.4,81,Contaminated,0.62,Major Overhaul,0.676
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.5,11,Good,0.97,Routine,0.93
+"Scheduled 30000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.0,22,Good,0.97,Routine,0.903
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.2,84,Contaminated,0.58,Major Overhaul,0.436
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.3,44,Fair,0.88,Minor Repair,0.815
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.6,68,Contaminated,0.58,Major Overhaul,0.422
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.3,56,Fair,0.84,Minor Repair,0.734
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.0,10,Good,0.99,Routine,0.932
+"Scheduled 10000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.2,20,Good,0.97,Routine,0.906
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,2.0,89,Contaminated,0.48,Severe Neglect,0.085
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.0,100,Contaminated,0.38,Severe Neglect,0.35
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.6,35,Fair,0.86,Minor Repair,0.796
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.6,94,Contaminated,0.48,Severe Neglect,0.305
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.3,32,Fair,0.88,Minor Repair,0.748
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.5,83,Contaminated,0.57,Major Overhaul,0.647
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",4.8,57,Fair,0.88,Minor Repair,0.729
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.5,85,Contaminated,0.65,Major Overhaul,0.458
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",2.9,67,Contaminated,0.7,Major Overhaul,0.557
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.8,98,Contaminated,0.39,Severe Neglect,0.242
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.3,17,Good,0.97,Routine,0.929
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,7.6,18,Good,0.98,Routine,0.953
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.1,99,Contaminated,0.33,Severe Neglect,0.365
+"Scheduled 50000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.5,17,Good,0.99,Routine,0.928
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.2,90,Contaminated,0.34,Severe Neglect,0.084
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.5,86,Contaminated,0.2,Severe Neglect,0.304
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,7.8,16,Good,0.98,Routine,0.934
+"Scheduled 50000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",6.1,18,Good,1.0,Routine,0.926
+"Check engine light diagnosed (Code: P0135). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",4.4,32,Fair,0.93,Minor Repair,0.702
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.6,24,Good,0.99,Routine,0.932
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,2.1,99,Contaminated,0.44,Severe Neglect,0.311
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.2,81,Contaminated,0.67,Major Overhaul,0.572
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.4,44,Fair,0.82,Minor Repair,0.703
+"Check engine light diagnosed (Code: P0128). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",5.5,60,Fair,0.87,Minor Repair,0.717
+Regular periodic service completed. Engine oil (5W-40 Synthetic) and filter changed. Brake pads inspected (77% life remaining). All fluids topped off. No error codes found.,7.3,12,Good,0.99,Routine,0.924
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.9,67,Contaminated,0.78,Major Overhaul,0.411
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,4.3,37,Fair,0.89,Minor Repair,0.745
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",4.6,30,Fair,0.82,Minor Repair,0.851
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.4,96,Contaminated,0.39,Severe Neglect,0.127
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.2,100,Contaminated,0.41,Severe Neglect,0.355
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,2.0,91,Contaminated,0.33,Severe Neglect,0.265
+"Check engine light diagnosed (Code: P0128). Replaced faulty oxygen sensor and spark plugs. Cleared codes, road test normal.",5.8,60,Fair,0.86,Minor Repair,0.722
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",4.2,37,Fair,0.82,Minor Repair,0.788
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.2,51,Fair,0.88,Minor Repair,0.871
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.0,84,Contaminated,0.67,Major Overhaul,0.623
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.9,88,Contaminated,0.48,Severe Neglect,0.177
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.4,23,Good,0.97,Routine,0.917
+"Transmission slipping noticeably during 2nd to 3rd gear upshift. Replaced torque converter, flushed transmission fluid, and recalibrated TCM.",3.2,77,Contaminated,0.55,Major Overhaul,0.483
+"Scheduled 10000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.2,23,Good,0.96,Routine,0.916
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,2.1,100,Contaminated,0.23,Severe Neglect,0.032
+Regular periodic service completed. Engine oil (0W-20 Full Synthetic) and filter changed. Brake pads inspected (83% life remaining). All fluids topped off. No error codes found.,7.9,18,Good,1.0,Routine,0.991
+"Slight vibration at idle. Cleaned throttle body and replaced auxiliary drive belt. Engine mount showing slight cosmetic wear, no replacement needed yet.",5.7,59,Fair,0.81,Minor Repair,0.753
+"Scheduled 30000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",6.6,10,Good,0.98,Routine,0.991
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.7,89,Contaminated,0.21,Severe Neglect,0.111
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.5,76,Contaminated,0.68,Major Overhaul,0.403
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.9,95,Contaminated,0.38,Severe Neglect,0.286
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.6,70,Contaminated,0.63,Major Overhaul,0.417
+Regular periodic service completed. Engine oil (5W-30 Synthetic Blend) and filter changed. Brake pads inspected (91% life remaining). All fluids topped off. No error codes found.,7.8,12,Good,0.98,Routine,0.95
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.3,78,Contaminated,0.77,Major Overhaul,0.41
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.5,66,Contaminated,0.63,Major Overhaul,0.61
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.4,38,Fair,0.88,Minor Repair,0.86
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.9,15,Good,0.96,Routine,0.95
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",2.5,81,Contaminated,0.58,Major Overhaul,0.661
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",2.7,80,Contaminated,0.63,Major Overhaul,0.616
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.6,42,Fair,0.91,Minor Repair,0.701
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,5.9,55,Fair,0.94,Minor Repair,0.833
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.6,86,Contaminated,0.38,Severe Neglect,0.257
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,2.2,90,Contaminated,0.35,Severe Neglect,0.012
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",2.1,88,Contaminated,0.52,Severe Neglect,0.19
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",2.3,100,Contaminated,0.11,Severe Neglect,0.076
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.3,35,Fair,0.82,Minor Repair,0.855
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",2.3,90,Contaminated,0.31,Severe Neglect,0.236
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.8,54,Fair,0.93,Minor Repair,0.766
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,2.4,95,Contaminated,0.1,Severe Neglect,0.371
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.4,89,Contaminated,0.37,Severe Neglect,0.279
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,7.3,13,Good,0.96,Routine,0.969
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.1,100,Contaminated,0.17,Severe Neglect,0.385
+Catastrophic transmission failure. Metal fragments inside valve body. Full transmission rebuild or unit replacement necessary.,1.5,94,Contaminated,0.53,Severe Neglect,0.25
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,5.2,53,Fair,0.87,Minor Repair,0.87
+Regular periodic service completed. Engine oil (0W-20 Full Synthetic) and filter changed. Brake pads inspected (78% life remaining). All fluids topped off. No error codes found.,6.7,15,Good,0.96,Routine,0.954
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.3,79,Contaminated,0.62,Major Overhaul,0.561
+"Severe structural corrosion and multiple fluid leaks (coolant, power steering, oil). Vehicle deemed mechanically unsafe for road use without extensive rebuild.",1.7,96,Contaminated,0.26,Severe Neglect,0.231
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.2,52,Fair,0.9,Minor Repair,0.786
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.4,37,Fair,0.86,Minor Repair,0.743
+Customer reported squeaking noise from front wheels. Replaced front brake pads and resurfaced rotors. Minor oil sweat noted on valve cover gasket.,5.2,38,Fair,0.92,Minor Repair,0.88
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.6,74,Contaminated,0.59,Major Overhaul,0.655
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",2.8,85,Contaminated,0.76,Major Overhaul,0.625
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.6,98,Contaminated,0.24,Severe Neglect,0.26
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",3.7,68,Contaminated,0.56,Major Overhaul,0.573
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.1,69,Contaminated,0.56,Major Overhaul,0.478
+Regular periodic service completed. Engine oil (5W-30 Synthetic Blend) and filter changed. Brake pads inspected (85% life remaining). All fluids topped off. No error codes found.,8.0,25,Good,0.97,Routine,0.937
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.4,25,Good,0.98,Routine,0.909
+"High engine vibration and heavy oil leak. Replaced timing chain assembly, tensioners, and front crankshaft seal. Multiple misfire codes resolved.",2.6,79,Contaminated,0.76,Major Overhaul,0.477
+"Scheduled 20000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",8.0,19,Good,0.96,Routine,0.952
+Vehicle towed to workshop with seized engine due to severe oil starvation. Metal debris detected throughout oil pan. Complete long-block engine replacement needed.,1.3,90,Contaminated,0.48,Severe Neglect,0.174
+"Suspension overhaul required. Replaced both front lower control arms, tie rod ends, and front struts due to severe bushing degradation. Performed 4-wheel alignment.",3.6,72,Contaminated,0.72,Major Overhaul,0.479
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",4.4,52,Fair,0.85,Minor Repair,0.723
+Severe sludge buildup throughout valvetrain caused by skipped oil changes. Timing chain snapped resulting in valve-to-piston contact and bent valves.,1.9,89,Contaminated,0.41,Severe Neglect,0.065
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,7.1,17,Good,1.0,Routine,0.939
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.8,25,Good,0.96,Routine,0.983
+Routine fluid service and tire rotation completed. Inspected belts and hoses; all within manufacturer tolerance. Battery voltage nominal: 12.6V.,6.4,17,Good,0.99,Routine,0.924
+Periodic inspection. Full synthetic oil change with OEM filter. Spark plugs checked and cleaned. Suspension and steering components nominal.,6.3,25,Good,0.96,Routine,0.955
+"Minor coolant seepage detected from upper radiator hose. Replaced clamp and hose assembly, topped off coolant and pressure tested OK.",5.9,55,Fair,0.92,Minor Repair,0.724
+"Customer reported engine overheating and white smoke from exhaust. Diagnosed blown head gasket. Resurfaced cylinder head, replaced head bolts and gasket kit.",3.7,79,Contaminated,0.72,Major Overhaul,0.633
+"Scheduled 30000-km interval maintenance performed. Replaced engine oil, cabin filter, and engine air filter. Multi-point mechanical inspection passed.",7.0,12,Good,0.97,Routine,0.98
