@@ -17,26 +17,27 @@ def render_token_saliency_html(tokens: List[str], scores: List[float]) -> str:
     for tok, score in zip(tokens, scores):
         norm_score = score / max_score
         intensity = min(1.0, abs(norm_score))
-        alpha = 0.15 + (intensity * 0.45)
+        alpha = 0.20 + (intensity * 0.55)
 
-        if score > 0.05:
+        # Use normalized score relative to max attribution for dynamic sensitivity
+        if norm_score > 0.18:
             # Positive indicator -> Emerald green on light background
             bg = f"rgba(16, 185, 129, {alpha:.2f})"
             color = "#065f46"
             border = "rgba(16, 185, 129, 0.6)"
-            title = f"+{score:.3f} (Health indicator)"
-        elif score < -0.05:
+            title = f"+{score:.4f} (Health indicator)"
+        elif norm_score < -0.18:
             # Negative defect indicator -> Crimson red on light background
             bg = f"rgba(239, 68, 68, {alpha:.2f})"
             color = "#991b1b"
             border = "rgba(239, 68, 68, 0.6)"
-            title = f"{score:.3f} (Defect risk)"
+            title = f"{score:.4f} (Defect risk)"
         else:
             # Neutral token
             bg = "#f1f5f9"
             color = "#475569"
             border = "#e2e8f0"
-            title = f"{score:.3f} (Neutral)"
+            title = f"{score:.4f} (Neutral)"
 
         clean_tok = tok.replace("##", "").replace("<", "&lt;").replace(">", "&gt;")
         span = (

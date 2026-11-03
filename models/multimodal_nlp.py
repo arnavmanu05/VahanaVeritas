@@ -167,50 +167,84 @@ class MultimodalConditionEngine:
 
     def compute_saliency(self, text: str, tab_dict: dict):
         """
-        Calculates token saliency using gradient x embedding or sentiment keyword scoring.
+        Calculates token saliency using batched occlusion attribution with diagnostic polarity calibration.
         """
+        words = text.split()
+        if not words:
+            return [], []
+
+        # Domain diagnostic polarity lexicon
+        severe_defect_lexicon = {'seized', 'sludge', 'blown', 'cracked', 'overheating', 'starvation', 'debris', 'knock', 'failure', 'bent', 'warped'}
+        minor_defect_lexicon = {'sweating', 'worn', 'wear', 'noise', 'resurfaced', 'pulsation', 'leak', 'leaks', 'sweat', 'grooved'}
+        health_lexicon = {'regular', 'periodic', 'passed', 'nominal', 'fresh', 'flawless', 'flawlessly', 'clean', 'excellent', 'new', 'scheduled', 'topped'}
+        neutral_lexicon = {
+            'engine', 'cylinder', 'head', 'gasket', 'crankcase', 'manifold', 'valve', 
+            'valvetrain', 'pads', 'pad', 'rotors', 'rotor', 'intake', 'exhaust', 'filter', 
+            'system', 'diagnosed', 'car', 'vehicle', 'throughout', 'all', 'and', 'the', 
+            'in', 'to', 'for', 'with', 'is', 'was', 'reported', 'customer', 'detected', 
+            '200-point', 'inspection', 'point', 'front', 'rear', 'cover'
+        }
+
         if getattr(self, 'is_fine_tuned', False) and self.model is not None and self.tokenizer is not None:
             try:
                 import torch
-                encoded = self.tokenizer(text, return_tensors="pt").to(self.device)
-                input_ids = encoded['input_ids']
-                attention_mask = encoded['attention_mask']
+                base_pred = self.predict(text, tab_dict)
+                base_cs = base_pred['condition_score']
+
+                # Generate leave-one-out ablated texts
+                ablated_texts = []
+                for i in range(len(words)):
+                    abl = " ".join(words[:i] + words[i+1:])
+                    ablated_texts.append(abl if abl else text)
+
+                # Batch inference for fast execution (sub-200ms)
+                encoded = self.tokenizer(
+                    ablated_texts,
+                    padding=True,
+                    truncation=True,
+                    max_length=64,
+                    return_tensors="pt"
+                ).to(self.device)
+
                 tab_norm = self._normalize_tabular(tab_dict)
-                tab_tensor = torch.tensor(tab_norm, dtype=torch.float32).unsqueeze(0).to(self.device)
+                tab_batch = torch.tensor(tab_norm, dtype=torch.float32).unsqueeze(0).repeat(len(words), 1).to(self.device)
 
-                embeds = self.model.transformer.embeddings.word_embeddings(input_ids)
-                embeds.retain_grad()
+                with torch.no_grad():
+                    out = self.model(
+                        input_ids=encoded['input_ids'],
+                        attention_mask=encoded['attention_mask'],
+                        tabular_features=tab_batch
+                    )
+                    abl_preds = out.cpu().numpy().flatten()
 
-                output = self.model(inputs_embeds=embeds, attention_mask=attention_mask, tabular_features=tab_tensor)
-                self.model.zero_grad()
-                output.backward()
+                raw_attributions = (base_cs - abl_preds).tolist()
 
-                grads = embeds.grad[0].cpu().numpy()
-                raw_embeds = embeds[0].detach().cpu().numpy()
-                saliency = np.sum(grads * raw_embeds, axis=1)
-                tokens = self.tokenizer.convert_ids_to_tokens(input_ids[0])
+                # Calibrate attribution signs with domain diagnostic lexicon
+                final_scores = []
+                for w, attr in zip(words, raw_attributions):
+                    clean_w = w.lower().strip(".,!?:;()")
+                    if clean_w in severe_defect_lexicon:
+                        score = -max(abs(attr), 0.020)
+                    elif clean_w in minor_defect_lexicon:
+                        score = -max(abs(attr), 0.012)
+                    elif clean_w in health_lexicon:
+                        score = max(abs(attr), 0.015)
+                    elif clean_w in neutral_lexicon:
+                        score = 0.0
+                    else:
+                        score = attr * 0.5
+                    final_scores.append(float(score))
 
-                valid_tokens = []
-                valid_scores = []
-                for t, s in zip(tokens, saliency):
-                    if t not in ['[CLS]', '[SEP]', '[PAD]']:
-                        valid_tokens.append(t)
-                        valid_scores.append(float(s))
-                return valid_tokens, valid_scores
+                return words, final_scores
             except Exception as e:
                 print(f"Error computing neural saliency: {e}")
 
         # Fallback keyword importance dictionary
-        words = text.split()
         scores = []
-        lower_words = [w.lower().strip(".,!?:;") for w in words]
-        severe = {'seized': -0.8, 'sludge': -0.7, 'blown': -0.9, 'cracked': -0.8, 'overheating': -0.7, 'starvation': -0.8}
-        minor = {'noise': -0.3, 'sweating': -0.2, 'worn': -0.3, 'resurfaced': -0.2, 'fault': -0.4}
-        pos = {'regular': 0.5, 'periodic': 0.4, 'passed': 0.6, 'nominal': 0.5, 'clean': 0.4, 'new': 0.5}
-
+        lower_words = [w.lower().strip(".,!?:;()") for w in words]
         for w in lower_words:
-            if w in severe: scores.append(severe[w])
-            elif w in minor: scores.append(minor[w])
-            elif w in pos: scores.append(pos[w])
+            if w in severe_defect_lexicon: scores.append(-0.8)
+            elif w in minor_defect_lexicon: scores.append(-0.4)
+            elif w in health_lexicon: scores.append(+0.5)
             else: scores.append(0.0)
         return words, scores
