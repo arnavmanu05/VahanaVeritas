@@ -446,7 +446,7 @@ with tab_cockpit:
             log_text = st.text_area(
                 "Technician Diagnostic Notes",
                 value=active_preset.get('text', "Regular periodic service completed. All fluids fresh, brake pads nominal, passed 200-point inspection."),
-                height=95
+                height=145
             )
 
             st.markdown("<p style='font-size: 0.80rem; font-weight: 600; color: #334155; margin: 8px 0 4px 0;'>Quantitative Wear Metrics:</p>", unsafe_allow_html=True)

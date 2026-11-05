@@ -1,5 +1,10 @@
+import os
+import sys
 import unittest
 import numpy as np
+
+# Ensure project root is in sys.path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from models.market_regressor import MarketValuationEngine, get_launch_msrp, get_brand_tier
 from models.mechanical_lstm import MechanicalHealthEngine, generate_telemetry_preset

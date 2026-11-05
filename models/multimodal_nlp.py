@@ -98,7 +98,7 @@ class MultimodalConditionEngine:
                     text,
                     padding="max_length",
                     truncation=True,
-                    max_length=64,
+                    max_length=160,
                     return_tensors="pt"
                 ).to(self.device)
 
@@ -174,15 +174,30 @@ class MultimodalConditionEngine:
             return [], []
 
         # Domain diagnostic polarity lexicon
-        severe_defect_lexicon = {'seized', 'sludge', 'blown', 'cracked', 'overheating', 'starvation', 'debris', 'knock', 'failure', 'bent', 'warped'}
-        minor_defect_lexicon = {'sweating', 'worn', 'wear', 'noise', 'resurfaced', 'pulsation', 'leak', 'leaks', 'sweat', 'grooved'}
-        health_lexicon = {'regular', 'periodic', 'passed', 'nominal', 'fresh', 'flawless', 'flawlessly', 'clean', 'excellent', 'new', 'scheduled', 'topped'}
+        severe_defect_lexicon = {
+            'seized', 'sludge', 'blown', 'cracked', 'overheating', 'starvation', 'debris', 
+            'knock', 'failure', 'bent', 'warped', 'compromised', 'catastrophic', 'fouled', 
+            'misfire', 'runaway', 'smoke', 'metal', 'fatal', 'seizure'
+        }
+        minor_defect_lexicon = {
+            'sweating', 'worn', 'wear', 'noise', 'resurfaced', 'pulsation', 'leak', 'leaks', 
+            'sweat', 'grooved', 'grooving', 'seepage', 'micro-cracking', 'drift', 'deferred', 
+            'latency', 'chips', 'unevenly', 'pending', 'squeal', 'aging', 'reduction'
+        }
+        health_lexicon = {
+            'regular', 'periodic', 'passed', 'nominal', 'fresh', 'flawless', 'flawlessly', 
+            'clean', 'excellent', 'new', 'scheduled', 'topped', 'optimal', 'firm', 'pristine', 
+            'smooth', 'roadworthiness', 'preventative', 'renewed', 'compliance', 'verified',
+            'readiness'
+        }
         neutral_lexicon = {
             'engine', 'cylinder', 'head', 'gasket', 'crankcase', 'manifold', 'valve', 
             'valvetrain', 'pads', 'pad', 'rotors', 'rotor', 'intake', 'exhaust', 'filter', 
             'system', 'diagnosed', 'car', 'vehicle', 'throughout', 'all', 'and', 'the', 
             'in', 'to', 'for', 'with', 'is', 'was', 'reported', 'customer', 'detected', 
-            '200-point', 'inspection', 'point', 'front', 'rear', 'cover'
+            '200-point', 'inspection', 'point', 'front', 'rear', 'cover', 'standard',
+            'intake', 'cadence', 'typical', 'average', 'fair', 'chassis', 'components',
+            'status', 'advisories', 'fluid', 'oil', 'fluids', 'tread', 'depth', 'tires'
         }
 
         if getattr(self, 'is_fine_tuned', False) and self.model is not None and self.tokenizer is not None:
@@ -202,7 +217,7 @@ class MultimodalConditionEngine:
                     ablated_texts,
                     padding=True,
                     truncation=True,
-                    max_length=64,
+                    max_length=160,
                     return_tensors="pt"
                 ).to(self.device)
 
