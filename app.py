@@ -323,7 +323,7 @@ st.markdown("""
         <span class='vv-tag'>TRI-BRANCH LATE FUSION</span>
     </div>
     <p style='color: #475569; font-size: 0.95rem; margin: 0; max-width: 900px;'>
-        Multi-Modal Automotive Valuation System resolving Akerlof's information asymmetry by fusing macro market regressions, operational telemetry sequence models, and transformer diagnostic NLP.
+        Multi-Modal Automotive Valuation System resolving information asymmetry by fusing macro market regressions, operational telemetry sequence models, and transformer diagnostic NLP.
     </p>
 </div>
 """, unsafe_allow_html=True)
@@ -579,13 +579,8 @@ with tab_cockpit:
 
     st.markdown("<div style='height: 18px;'></div>", unsafe_allow_html=True)
 
-    # Visualizations
-    v_col1, v_col2 = st.columns([1.3, 1], gap="medium")
-    with v_col1:
-        st.plotly_chart(build_waterfall_figure(fusion_result), key="cockpit_waterfall_chart")
-
-    with v_col2:
-        st.plotly_chart(build_telemetry_radar_figure(mhi_result['channel_averages']), key="cockpit_telemetry_radar_chart")
+    # Valuation Dynamics Visualization
+    st.plotly_chart(build_waterfall_figure(fusion_result), use_container_width=True, key="cockpit_waterfall_chart")
 
 # ------------------------------------------------------------------------------
 # TAB 2: EXPLAINABLE AI & DIAGNOSTICS
@@ -661,8 +656,8 @@ with tab_xai:
 # TAB 3: EMPIRICAL BENCHMARKS
 # ------------------------------------------------------------------------------
 with tab_benchmarks:
-    st.markdown("### Empirical Performance Benchmarks & Adverse Selection Resolution")
-    st.markdown("<p style='color: #64748b; font-size: 0.90rem;'>Independent test fleet evaluations verifying how late-fusion resolves the Akerlof lemon gap.</p>", unsafe_allow_html=True)
+    st.markdown("### Empirical Performance Benchmarks & Valuation Spread")
+    st.markdown("<p style='color: #64748b; font-size: 0.90rem;'>Independent held-out test split evaluations across all three model branches and multi-tier archetype resolution.</p>", unsafe_allow_html=True)
 
     b_col1, b_col2 = st.columns([1, 1], gap="large")
 
@@ -691,20 +686,7 @@ with tab_benchmarks:
                 "Primary Test Error": "RMSE: 0.0908 | MAE: 0.0708"
             }
         ]
-        st.dataframe(pd.DataFrame(benchmark_data))
-
-        st.markdown("<div style='height: 15px;'></div>", unsafe_allow_html=True)
-        st.markdown("#### Economic Formulation of Adverse Selection")
-        st.markdown("""
-        In George Akerlof's 1970 analysis *The Market for Lemons*, unobservable mechanical quality causes rational buyers 
-        to offer only average prices. Consequently, owners of well-maintained vehicles withdraw from the market, 
-        leaving only lemons.
-
-        **Late-Fusion Resolution Mechanism:**
-        - Branch 2 uncovers latent internal mechanical degradation from operational sensor streams.
-        - Branch 3 quantifies technician commentary and physical wear metrics.
-        - The Late-Fusion Engine enforces a **24.6% elasticity spread**, fairly compensating well-maintained vehicles while applying appropriate discounts to defective vehicles.
-        """)
+        st.dataframe(pd.DataFrame(benchmark_data), use_container_width=True)
 
     with b_col2:
         st.markdown("#### Table 2: Elasticity Distribution Across Archetypes (Rs. 8,00,000 Baseline)")
