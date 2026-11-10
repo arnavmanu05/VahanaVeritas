@@ -174,7 +174,9 @@ VahanaVeritas/
 
 ### Step 1: Clone and Navigate
 ```bash
+git clone https://github.com/arnavmanu05/VahanaVeritas.git
 cd VahanaVeritas
+git lfs pull
 ```
 
 ### Step 2: Install Dependencies
